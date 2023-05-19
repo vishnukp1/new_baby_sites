@@ -1,0 +1,52 @@
+
+.homeimg{
+   
+    width: 50%;
+}
+.lefthead{
+    width: 50%;
+   
+}
+.mainhead{
+ display: flex;
+ flex-direction: column;
+  width: 100%;
+ 
+
+}
+.maintext{
+    margin-top: 200px;
+    margin-left: 30px;
+}
+.mainbtn{
+    background-color: rgb(229, 113, 113);
+    border :  0
+    px solid ;
+}
+.centerdiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+.imgleft{
+    border: 5px solid rgb(219, 215, 215);
+    width: 300px;
+}
+.imgcenter{
+    border: 5px solid  rgb(219, 215, 215);
+    width: 300px;
+}
+.imgright{
+    border: 5px solid  rgb(219, 215, 215);
+    width: 300px;
+}
+.navbar{
+    height: 88px;
+}
+.footer{
+    padding-top: 20px;
+}
+
+.navimg img{
+    padding-right: 9px;
+}

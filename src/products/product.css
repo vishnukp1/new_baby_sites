@@ -1,0 +1,31 @@
+.topdiv{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.products img{
+    width: 20.9rem;
+    height: 250px;
+    
+}
+
+.cart-products img{
+    height: 30px;
+}
+.products{
+    margin-top: 20px;
+}
+.viewproducts img{
+    width: 30.9rem;
+    height: 420px;
+  
+    
+}
+.viewproducts{
+    margin-top: 35px;
+    margin-left: 25px;
+
+}
+.margin-left {
+    margin-left: 15px;
+  }
