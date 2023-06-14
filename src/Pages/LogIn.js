@@ -62,7 +62,7 @@ function LogIn() {
         </div>
         <div class="footer">
           <Button type="submit" class="btn" onClick={loginPass}>
-            Register
+         Login
           </Button>
         </div>
         <label>Already have an account? </label>
